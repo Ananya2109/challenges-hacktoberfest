@@ -1,5 +1,5 @@
 import java.util.Random;
-
+//ananya doing some bs
 public class Challenge1 {
 	// Challenge 1
 	// Given an array of 10 integers numbers generated randomly, find the sum of its
